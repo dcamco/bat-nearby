@@ -2,9 +2,25 @@
   "zip": "77006",
   "city": "Houston, TX",
   "source": "https://bringatrailer.com/no-reserve/?sortby=location",
-  "updatedAt": "2026-08-25T10:26:00-05:00",
-  "updatedLabel": "Aug 25, 2026, 10:26 AM CT",
+  "updatedAt": "2026-08-25T16:08:00-05:00",
+  "updatedLabel": "Aug 25, 2026, 4:08 PM CT",
   "listings": [
+    {
+      "id": "2016-land-rover-range-rover-184",
+      "title": "2016 Land Rover Range Rover Autobiography LWB",
+      "url": "https://bringatrailer.com/listing/2016-land-rover-range-rover-184/",
+      "image": "photos/2016-land-rover-range-rover-184.jpg",
+      "bid": null,
+      "bidLabel": "Bidding open",
+      "bids": 0,
+      "timeLeft": "7 days",
+      "ends": "Tuesday, Sep 1, 2026 at 2:29 PM CT",
+      "distanceMiles": 10,
+      "distanceLabel": "under 10 miles",
+      "location": "Houston, TX 77003",
+      "noReserve": true,
+      "description": "Carpathian Gray over black leather, 101k miles. Supercharged 5.0 V8, LWB Autobiography. Panoramic roof, Meridian, rear-seat entertainment, cooler. Bumper scuffs, passenger-rear soft-close dead. Carfax accidents in 2020, open recall, lien on title."
+    },
     {
       "id": "1999-bmw-328i-26",
       "title": "1999 BMW 328i Convertible",
@@ -19,7 +35,7 @@
       "distanceLabel": "under 10 miles",
       "location": "Houston, TX 77056",
       "noReserve": true,
-      "description": "One-family-owned E36 in Avus Blue with a matching blue top, 64k miles. Soft top doesn’t power-retract and needs repair. Dings in the body, dent by the right headlight, loose door panels. Clean Carfax, clean Texas title."
+      "description": "One-family-owned E36 in Avus Blue with a matching blue top, 64k miles. Soft top doesn\u2019t power-retract and needs repair. Dings in the body, dent by the right headlight, loose door panels. Clean Carfax, clean Texas title."
     },
     {
       "id": "1987-toyota-land-cruiser-fj60-196",
@@ -42,10 +58,10 @@
       "title": "2002 Mercedes-Benz C32 AMG",
       "url": "https://bringatrailer.com/listing/2002-mercedes-benz-c32-amg-12/",
       "image": "photos/2002-mercedes-benz-c32-amg-12.jpg",
-      "bid": 2800,
-      "bidLabel": "$2,800",
+      "bid": 3000,
+      "bidLabel": "$3,000",
       "bids": 7,
-      "timeLeft": "1 day",
+      "timeLeft": "22 hours",
       "ends": "Wednesday, Aug 26, 2026 at 2:34 PM CT",
       "distanceMiles": 20,
       "distanceLabel": "20 miles",
@@ -74,8 +90,8 @@
       "title": "Ferrari 360 Schedoni luggage set",
       "url": "https://bringatrailer.com/listing/schedoni-44/",
       "image": "photos/schedoni-44.jpg",
-      "bid": 1600,
-      "bidLabel": "$1,600",
+      "bid": 2000,
+      "bidLabel": "$2,000",
       "bids": null,
       "timeLeft": "6 days",
       "ends": "about 6 days",
@@ -84,22 +100,6 @@
       "location": "about 30 miles from 77006",
       "noReserve": true,
       "description": "Three-piece Schedoni set for a 360: two hard cases plus a garment bag, prancing-horse logos."
-    },
-    {
-      "id": "wheels-676",
-      "title": "C8 Corvette forged red-stripe wheels",
-      "url": "https://bringatrailer.com/listing/wheels-676/",
-      "image": "photos/wheels-676.jpg",
-      "bid": 1500,
-      "bidLabel": "$1,500",
-      "bids": null,
-      "timeLeft": "hours",
-      "ends": "Tuesday, Aug 25, 2026 around 2:30 PM CT",
-      "distanceMiles": 40,
-      "distanceLabel": "40 miles",
-      "location": "about 40 miles from 77006",
-      "noReserve": true,
-      "description": "Staggered 19×8.5\" / 20×11\" forged wheels with red lip stripe and crossed-flags caps, Michelin Pilot Sports mounted. Ending soon."
     }
   ]
 }
