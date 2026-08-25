@@ -1,0 +1,870 @@
+{
+  "updatedLabel": "Aug 25, 2026, 4:00 PM CT",
+  "blurb": "Ferrari 360s currently for sale from Bring a Trailer, Facebook Marketplace (city-hopped across the US), and your groups. Same car listed in more than one place is shown once, with every source linked.",
+  "listings": [
+    {
+      "id": "plano-cs-tribute",
+      "year": 2000,
+      "title": "360 Modena CS Tribute",
+      "body": "Modena",
+      "trans": "gated",
+      "miles": 44500,
+      "price": 169000,
+      "location": "Plano, TX",
+      "region": "texas",
+      "note": "Challenge Stradale tribute, gated conversion (Modena Lucerna). Just listed.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1560140055804745/"
+        },
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/28052193964443949/"
+        }
+      ]
+    },
+    {
+      "id": "dallas-1999",
+      "year": 1999,
+      "title": "360 Modena",
+      "body": "Modena",
+      "trans": null,
+      "miles": 31500,
+      "price": 81900,
+      "location": "Dallas, TX",
+      "region": "texas",
+      "note": "Rosso Fiorano. Posted in 360 Owners Club.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/9920792864677336/"
+        }
+      ]
+    },
+    {
+      "id": "bat-cs",
+      "year": 2004,
+      "title": "360 Challenge Stradale",
+      "body": "CS",
+      "trans": "F1",
+      "miles": 32000,
+      "price": 411000,
+      "location": "Arkansas",
+      "region": "bat",
+      "note": "Live BaT. ~$46k recent work including timing belt, manifolds, clutch. Ends tomorrow.",
+      "image": "photos/cs.jpg",
+      "stale": false,
+      "sources": [
+        {
+          "label": "BaT",
+          "url": "https://bringatrailer.com/listing/2004-ferrari-360-challenge-stradale-50/"
+        }
+      ]
+    },
+    {
+      "id": "bat-1999-6spd",
+      "year": 1999,
+      "title": "360 Modena 6-Speed",
+      "body": "Modena",
+      "trans": "gated",
+      "miles": 45000,
+      "price": 101500,
+      "location": "North Carolina",
+      "region": "bat",
+      "note": "Live BaT. Rosso Corsa, gated. Timing belts 2025. Ends Thursday.",
+      "image": "photos/modena.jpg",
+      "stale": false,
+      "sources": [
+        {
+          "label": "BaT",
+          "url": "https://bringatrailer.com/listing/1999-ferrari-360-modena-66/"
+        }
+      ]
+    },
+    {
+      "id": "bat-2002-spider",
+      "year": 2002,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": "F1",
+      "miles": 10000,
+      "price": 60500,
+      "location": "United States",
+      "region": "bat",
+      "note": "Live on the BaT 360 page. Grigio Titanio, F1, gray top.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "BaT 360 page",
+          "url": "https://bringatrailer.com/ferrari/360/"
+        }
+      ]
+    },
+    {
+      "id": "bat-2004-spider",
+      "year": 2004,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": "F1",
+      "miles": 20000,
+      "price": 80000,
+      "location": "United States",
+      "region": "bat",
+      "note": "Live on the BaT 360 page. Giallo Modena, F1, BBS wheels.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "BaT 360 page",
+          "url": "https://bringatrailer.com/ferrari/360/"
+        }
+      ]
+    },
+    {
+      "id": "bat-2001-spider-6",
+      "year": 2001,
+      "title": "360 Spider 6-Speed",
+      "body": "Spider",
+      "trans": "gated",
+      "miles": null,
+      "price": 50000,
+      "location": "United States",
+      "region": "bat",
+      "note": "Live on the BaT 360 page. Rosso Corsa, gated, beige leather. Early bid.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "BaT 360 page",
+          "url": "https://bringatrailer.com/ferrari/360/"
+        }
+      ]
+    },
+    {
+      "id": "nj-2003-spider",
+      "year": 2003,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 130000,
+      "location": "West Orange, NJ",
+      "region": "east",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/4335925063359971"
+        }
+      ]
+    },
+    {
+      "id": "roslyn-2001",
+      "year": 2001,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 129888,
+      "location": "Roslyn, NY",
+      "region": "east",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1671462427404950"
+        }
+      ]
+    },
+    {
+      "id": "freeport-143",
+      "year": 2001,
+      "title": "360 Modena Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 143995,
+      "location": "Freeport, NY",
+      "region": "east",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1391481216276006"
+        }
+      ]
+    },
+    {
+      "id": "freeport-148",
+      "year": 2001,
+      "title": "360 Modena Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 148000,
+      "location": "Freeport, NY",
+      "region": "east",
+      "note": "Possibly same dealer as the other Freeport Spider.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1565987348424842"
+        }
+      ]
+    },
+    {
+      "id": "dc-2004-spider",
+      "year": 2004,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": 10146,
+      "price": 169900,
+      "location": "Washington, DC",
+      "region": "east",
+      "note": "Daytona seats, modular wheels. Same dealer car also listed in Cleveland and Seville, OH.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace DC",
+          "url": "https://www.facebook.com/marketplace/item/2034096483894853"
+        },
+        {
+          "label": "Cleveland",
+          "url": "https://www.facebook.com/marketplace/item/1036468378776348"
+        },
+        {
+          "label": "Seville OH",
+          "url": "https://www.facebook.com/marketplace/item/1068554665694728"
+        }
+      ]
+    },
+    {
+      "id": "novi-2004",
+      "year": 2004,
+      "title": "360",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 79000,
+      "location": "Novi, MI",
+      "region": "midwest",
+      "note": "Marketplace listed as 2004 Ferrari (360).",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1010992855190046"
+        }
+      ]
+    },
+    {
+      "id": "round-lake",
+      "year": 2004,
+      "title": "360",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 196998,
+      "location": "Round Lake, IL",
+      "region": "midwest",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1371985624375605"
+        }
+      ]
+    },
+    {
+      "id": "downingtown",
+      "year": 2001,
+      "title": "360",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 249000,
+      "location": "Downingtown, PA",
+      "region": "east",
+      "note": "Just listed.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1052504517759164"
+        }
+      ]
+    },
+    {
+      "id": "germantown",
+      "year": 2003,
+      "title": "360 Modena F1",
+      "body": "Modena",
+      "trans": "F1",
+      "miles": 14550,
+      "price": 95000,
+      "location": "Germantown, MD",
+      "region": "east",
+      "note": "$95k OBO. Rosso/tan.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1956200278538939/"
+        }
+      ]
+    },
+    {
+      "id": "vegas-spider",
+      "year": 2004,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 74500,
+      "location": "Las Vegas, NV",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/758494913860908"
+        }
+      ]
+    },
+    {
+      "id": "vegas-modena",
+      "year": 2004,
+      "title": "360 Modena coupe",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 65000,
+      "location": "Las Vegas, NV",
+      "region": "west",
+      "note": "Was briefly listed at $790k (typo). A related tan Modena listing also showed $12k/$65k.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/2607359516276596"
+        },
+        {
+          "label": "Related listing",
+          "url": "https://www.facebook.com/marketplace/item/1182626220205033"
+        }
+      ]
+    },
+    {
+      "id": "colton-spider",
+      "year": 2004,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 95000,
+      "location": "Colton, CA",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1559923275499975"
+        }
+      ]
+    },
+    {
+      "id": "ventura",
+      "year": 2000,
+      "title": "360 Modena",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 109999,
+      "location": "Ventura, CA",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1033285349623613"
+        }
+      ]
+    },
+    {
+      "id": "thousand-oaks",
+      "year": 2000,
+      "title": "360 Modena",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 180075,
+      "location": "Thousand Oaks, CA",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/2631554797264156"
+        }
+      ]
+    },
+    {
+      "id": "colton-modena",
+      "year": 2000,
+      "title": "360 Modena factory gated",
+      "body": "Modena",
+      "trans": "gated",
+      "miles": null,
+      "price": 225000,
+      "location": "Colton, CA",
+      "region": "west",
+      "note": "Arizona title. Also in 360 Owners Club (Skyler Shapiro).",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1856839041952222"
+        },
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/27967038579626155/"
+        }
+      ]
+    },
+    {
+      "id": "newbury",
+      "year": 2001,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 99890,
+      "location": "Newbury Park, CA",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1942080920016675"
+        }
+      ]
+    },
+    {
+      "id": "irvine-gated",
+      "year": 2000,
+      "title": "360 gated manual",
+      "body": "Modena",
+      "trans": "gated",
+      "miles": null,
+      "price": 400000,
+      "location": "Irvine, CA",
+      "region": "west",
+      "note": "Factory gated.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/2014129582582851"
+        }
+      ]
+    },
+    {
+      "id": "panorama",
+      "year": 2001,
+      "title": "360 Modena Spider F1",
+      "body": "Spider",
+      "trans": "F1",
+      "miles": null,
+      "price": 170000,
+      "location": "Panorama City, CA",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1577502847297136"
+        }
+      ]
+    },
+    {
+      "id": "costa-mesa",
+      "year": 2001,
+      "title": "360 Modena",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 119900,
+      "location": "Costa Mesa, CA",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1984118052314186"
+        }
+      ]
+    },
+    {
+      "id": "hb-gated-spider",
+      "year": 2002,
+      "title": "360 Spider factory gated",
+      "body": "Spider",
+      "trans": "gated",
+      "miles": null,
+      "price": 189999,
+      "location": "Huntington Beach, CA",
+      "region": "west",
+      "note": "Trofeo Collection / Hazem Gibaly. \u201cMint, most sorted.\u201d",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/26293630730300290/"
+        }
+      ]
+    },
+    {
+      "id": "la-grigio",
+      "year": 2003,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": 14851,
+      "price": 90000,
+      "location": "Los Angeles, CA",
+      "region": "west",
+      "note": "Grigio, Daytona seats, Tubi. Posted Oct 2025.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/24891486813848029/"
+        }
+      ]
+    },
+    {
+      "id": "azzurro",
+      "year": 2003,
+      "title": "360 Spider Azzurro California",
+      "body": "Spider",
+      "trans": null,
+      "miles": 38195,
+      "price": null,
+      "location": "Los Angeles area",
+      "region": "west",
+      "note": "Price is in the post.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/25684024807927555/"
+        }
+      ]
+    },
+    {
+      "id": "giallo-trev",
+      "year": null,
+      "title": "360 Giallo Modena",
+      "body": "Modena",
+      "trans": null,
+      "miles": 31000,
+      "price": null,
+      "location": "United States",
+      "region": "west",
+      "note": "360Trev ECU / CS TCU, Capristo. Price behind \u201csee more.\u201d Posted Dec 2025.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/25324688023861237/"
+        }
+      ]
+    },
+    {
+      "id": "mesa-89",
+      "year": 2001,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 89995,
+      "location": "Mesa, AZ",
+      "region": "west",
+      "note": "One of three Mesa Spider listings.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/3091012781088264"
+        }
+      ]
+    },
+    {
+      "id": "mesa-99",
+      "year": 2001,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 99995,
+      "location": "Mesa, AZ",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1295122659444409"
+        }
+      ]
+    },
+    {
+      "id": "mesa-149",
+      "year": 2001,
+      "title": "360 Spider",
+      "body": "Spider",
+      "trans": null,
+      "miles": null,
+      "price": 149995,
+      "location": "Mesa, AZ",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1970953953783159"
+        }
+      ]
+    },
+    {
+      "id": "slc-6spd",
+      "year": 1999,
+      "title": "360 Modena 6-speed",
+      "body": "Modena",
+      "trans": "gated",
+      "miles": null,
+      "price": 359900,
+      "location": "Salt Lake City, UT",
+      "region": "west",
+      "note": "Marketplace listing. Chad Aalders\u2019 related gated post is also in the club.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1569326314987568"
+        },
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/27992835900379756/"
+        }
+      ]
+    },
+    {
+      "id": "portland",
+      "year": 2003,
+      "title": "360",
+      "body": "Modena",
+      "trans": null,
+      "miles": null,
+      "price": 100000,
+      "location": "Portland, OR",
+      "region": "west",
+      "note": null,
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/2034201250531145"
+        }
+      ]
+    },
+    {
+      "id": "meridian",
+      "year": 2004,
+      "title": "360 Convertible",
+      "body": "Spider",
+      "trans": null,
+      "miles": 33123,
+      "price": 50000,
+      "location": "Meridian, ID",
+      "region": "west",
+      "note": "eBay auction link in the group post. Posted Oct 2025.",
+      "image": null,
+      "stale": true,
+      "sources": [
+        {
+          "label": "360 Owners Club",
+          "url": "https://www.facebook.com/groups/935491273207585/posts/24858535190476525/"
+        }
+      ]
+    },
+    {
+      "id": "fl-gated",
+      "year": 2001,
+      "title": "360 Spider factory gated",
+      "body": "Spider",
+      "trans": "gated",
+      "miles": 34400,
+      "price": 89900,
+      "location": "Indian Harbour Beach, FL",
+      "region": "south",
+      "note": "Posted Dec 2025.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/2124280998397532/"
+        }
+      ]
+    },
+    {
+      "id": "tucker",
+      "year": 1999,
+      "title": "360 Modena",
+      "body": "Modena",
+      "trans": null,
+      "miles": 58900,
+      "price": 76900,
+      "location": "Tucker, GA",
+      "region": "south",
+      "note": "Old post (Sep 2023). Confirm still available.",
+      "image": null,
+      "stale": true,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1518772028948435/"
+        }
+      ]
+    },
+    {
+      "id": "madison-al",
+      "year": 1999,
+      "title": "360",
+      "body": "Modena",
+      "trans": null,
+      "miles": 29751,
+      "price": 84999,
+      "location": "Madison, AL",
+      "region": "south",
+      "note": "VIN ZFFYR51J000117568. Posted May 2025.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1954044905421143/"
+        }
+      ]
+    },
+    {
+      "id": "marc-russell",
+      "year": null,
+      "title": "360 gated Rosso/Tan",
+      "body": "Modena",
+      "trans": "gated",
+      "miles": 10000,
+      "price": null,
+      "location": "United States",
+      "region": "south",
+      "note": "One family since 2008.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/2207412953417669/"
+        }
+      ]
+    },
+    {
+      "id": "lanel",
+      "year": 2001,
+      "title": "360 Modena Spyder",
+      "body": "Spider",
+      "trans": null,
+      "miles": 9000,
+      "price": null,
+      "location": "United States",
+      "region": "south",
+      "note": "Full major service. Posted Oct 2024.",
+      "image": null,
+      "stale": true,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1786222148870087/"
+        }
+      ]
+    },
+    {
+      "id": "dupont-cs",
+      "year": null,
+      "title": "360 Challenge Stradale",
+      "body": "CS",
+      "trans": null,
+      "miles": null,
+      "price": null,
+      "location": "United States",
+      "region": "south",
+      "note": "No reserve on duPont Registry Live.",
+      "image": null,
+      "stale": false,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/2214259959399635/"
+        }
+      ]
+    }
+  ]
+}
