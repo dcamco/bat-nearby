@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nearby no-reserve · BaT 77006</title>
+  <meta name="description" content="Live Bring a Trailer no-reserve auctions closest to Houston 77006." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #1a1714;
+      --muted: #6b645c;
+      --paper: #f4efe6;
+      --card: #fffdf8;
+      --line: #ddd4c6;
+      --nr: #c45c16;
+      --link: #1a1714;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: "IBM Plex Sans", system-ui, sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.45;
+    }
+    header {
+      padding: 2.25rem 1.25rem 1.5rem;
+      max-width: 1100px;
+      margin: 0 auto;
+      border-bottom: 1px solid var(--line);
+    }
+    .kicker {
+      font-size: 0.75rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--nr);
+      font-weight: 600;
+    }
+    h1 {
+      font-family: Fraunces, Georgia, serif;
+      font-weight: 650;
+      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      margin: 0.35rem 0 0.4rem;
+      letter-spacing: -0.02em;
+    }
+    .meta { color: var(--muted); font-size: 0.95rem; }
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.25rem;
+      display: grid;
+      gap: 1.25rem;
+    }
+    article {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: minmax(0, 280px) 1fr;
+    }
+    article img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      min-height: 200px;
+      background: #e8e0d4;
+    }
+    .body { padding: 1.1rem 1.2rem 1.2rem; }
+    .badges { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.45rem; }
+    .badge {
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      border: 1px solid var(--line);
+      padding: 0.15rem 0.45rem;
+      border-radius: 999px;
+    }
+    .badge.nr { color: var(--nr); border-color: #e8b48a; background: #fff3e8; }
+    h2 {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 1.28rem;
+      font-weight: 650;
+      margin: 0 0 0.35rem;
+    }
+    h2 a { color: inherit; text-decoration: none; }
+    h2 a:hover { text-decoration: underline; }
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.85rem 1.25rem;
+      font-size: 0.92rem;
+      margin: 0.55rem 0 0.7rem;
+    }
+    .stats strong { font-weight: 600; }
+    .stats span { color: var(--muted); }
+    p.desc { margin: 0; color: #3b352f; font-size: 0.95rem; }
+    footer {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 2.5rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    footer a { color: inherit; }
+    @media (max-width: 720px) {
+      article { grid-template-columns: 1fr; }
+      article img { min-height: 220px; max-height: 260px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="kicker">Bring a Trailer · no reserve</div>
+    <h1>Closest to 77006</h1>
+    <p class="meta" id="meta">Loading live auctions near Houston…</p>
+  </header>
+  <main id="list"></main>
+  <footer>
+    Running list of no-reserve auctions sorted by distance from Houston 77006.
+    Data from <a href="https://bringatrailer.com/no-reserve/?sortby=location">Bring a Trailer</a>.
+  </footer>
+  <script>
+    const money = (n) => n == null ? "—" : n.toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+    async function load() {
+      const res = await fetch("listings.json", { cache: "no-store" });
+      const data = await res.json();
+      document.getElementById("meta").textContent =
+        `${data.listings.length} live listings · updated ${data.updatedLabel}`;
+      const root = document.getElementById("list");
+      root.innerHTML = data.listings.map((l) => `
+        <article>
+          <a href="${l.url}"><img src="${l.image}" alt="${l.title}" /></a>
+          <div class="body">
+            <div class="badges">
+              ${l.noReserve ? '<span class="badge nr">No Reserve</span>' : ""}
+              <span class="badge">${l.distanceLabel}</span>
+            </div>
+            <h2><a href="${l.url}">${l.title}</a></h2>
+            <div class="stats">
+              <div><strong>${l.bidLabel || money(l.bid)}</strong><br /><span>${l.bids != null ? l.bids + " bids" : "current bid"}</span></div>
+              <div><strong>${l.timeLeft}</strong><br /><span>${l.ends}</span></div>
+              <div><strong>${l.location}</strong><br /><span>${l.distanceLabel} from ${data.zip}</span></div>
+            </div>
+            <p class="desc">${l.description}</p>
+          </div>
+        </article>
+      `).join("");
+    }
+    load().catch((err) => {
+      document.getElementById("meta").textContent = "Could not load listings.";
+      console.error(err);
+    });
+  </script>
+</body>
+</html>
