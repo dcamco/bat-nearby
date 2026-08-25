@@ -24,7 +24,9 @@
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/28052193964443949/"
         }
-      ]
+      ],
+      "postedAt": "2026-08-25",
+      "sold": false
     },
     {
       "id": "dallas-1999",
@@ -36,15 +38,17 @@
       "price": 81900,
       "location": "Dallas, TX",
       "region": "texas",
-      "note": "Rosso Fiorano. Posted in 360 Owners Club.",
+      "note": "Rosso Fiorano. Posted in 360 Owners Club. Posted May 26, 2025.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/9920792864677336/"
         }
-      ]
+      ],
+      "postedAt": "2025-05-26",
+      "sold": false
     },
     {
       "id": "bat-cs",
@@ -324,15 +328,17 @@
       "price": 95000,
       "location": "Germantown, MD",
       "region": "east",
-      "note": "$95k OBO. Rosso/tan.",
+      "note": "$95k OBO. Rosso/tan. Posted June 2, 2025.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
           "url": "https://www.facebook.com/groups/carsfsbo/posts/1956200278538939/"
         }
-      ]
+      ],
+      "postedAt": "2025-06-02",
+      "sold": false
     },
     {
       "id": "vegas-spider",
@@ -460,7 +466,9 @@
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/27967038579626155/"
         }
-      ]
+      ],
+      "postedAt": "2026-08-18",
+      "sold": false
     },
     {
       "id": "newbury",
@@ -552,15 +560,17 @@
       "price": 189999,
       "location": "Huntington Beach, CA",
       "region": "west",
-      "note": "Trofeo Collection / Hazem Gibaly. \u201cMint, most sorted.\u201d",
+      "note": "Trofeo Collection / Hazem Gibaly. \u201cMint, most sorted.\u201d Posted March 28.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/26293630730300290/"
         }
-      ]
+      ],
+      "postedAt": "2026-03-28",
+      "sold": false
     },
     {
       "id": "la-grigio",
@@ -572,15 +582,17 @@
       "price": 90000,
       "location": "Los Angeles, CA",
       "region": "west",
-      "note": "Grigio, Daytona seats, Tubi. Posted Oct 2025.",
+      "note": "Grigio, Daytona seats, Tubi. Posted Oct 2025. Posted October 21, 2025.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/24891486813848029/"
         }
-      ]
+      ],
+      "postedAt": "2025-10-21",
+      "sold": false
     },
     {
       "id": "azzurro",
@@ -592,15 +604,17 @@
       "price": null,
       "location": "Los Angeles area",
       "region": "west",
-      "note": "Price is in the post.",
+      "note": "Price is in the post. Posted January 23.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/25684024807927555/"
         }
-      ]
+      ],
+      "postedAt": "2026-01-23",
+      "sold": false
     },
     {
       "id": "giallo-trev",
@@ -612,15 +626,17 @@
       "price": null,
       "location": "United States",
       "region": "west",
-      "note": "360Trev ECU / CS TCU, Capristo. Price behind \u201csee more.\u201d Posted Dec 2025.",
+      "note": "360Trev ECU / CS TCU, Capristo. Price behind \u201csee more.\u201d Posted Dec 2025. Posted December 9, 2025.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/25324688023861237/"
         }
-      ]
+      ],
+      "postedAt": "2025-12-09",
+      "sold": false
     },
     {
       "id": "mesa-89",
@@ -704,7 +720,9 @@
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/27992835900379756/"
         }
-      ]
+      ],
+      "postedAt": "2026-08-20",
+      "sold": false
     },
     {
       "id": "portland",
@@ -736,7 +754,7 @@
       "price": 50000,
       "location": "Meridian, ID",
       "region": "west",
-      "note": "eBay auction link in the group post. Posted Oct 2025.",
+      "note": "eBay auction link in the group post. Posted Oct 2025. Posted October 17, 2025. Linked eBay auction was Oct 2025.",
       "image": null,
       "stale": true,
       "sources": [
@@ -744,7 +762,9 @@
           "label": "360 Owners Club",
           "url": "https://www.facebook.com/groups/935491273207585/posts/24858535190476525/"
         }
-      ]
+      ],
+      "postedAt": "2025-10-17",
+      "sold": false
     },
     {
       "id": "fl-gated",
@@ -756,15 +776,17 @@
       "price": 89900,
       "location": "Indian Harbour Beach, FL",
       "region": "south",
-      "note": "Posted Dec 2025.",
+      "note": "Posted Dec 2025. Posted December 15, 2025.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
           "url": "https://www.facebook.com/groups/carsfsbo/posts/2124280998397532/"
         }
-      ]
+      ],
+      "postedAt": "2025-12-15",
+      "sold": false
     },
     {
       "id": "tucker",
@@ -776,7 +798,7 @@
       "price": 76900,
       "location": "Tucker, GA",
       "region": "south",
-      "note": "Old post (Sep 2023). Confirm still available.",
+      "note": "Old post (Sep 2023). Confirm still available. Posted September 8, 2023.",
       "image": null,
       "stale": true,
       "sources": [
@@ -784,7 +806,9 @@
           "label": "Exotic Cars FSBO",
           "url": "https://www.facebook.com/groups/carsfsbo/posts/1518772028948435/"
         }
-      ]
+      ],
+      "postedAt": "2023-09-08",
+      "sold": false
     },
     {
       "id": "madison-al",
@@ -796,15 +820,17 @@
       "price": 84999,
       "location": "Madison, AL",
       "region": "south",
-      "note": "VIN ZFFYR51J000117568. Posted May 2025.",
+      "note": "VIN ZFFYR51J000117568. Posted May 2025. Posted May 31, 2025.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
           "url": "https://www.facebook.com/groups/carsfsbo/posts/1954044905421143/"
         }
-      ]
+      ],
+      "postedAt": "2025-05-31",
+      "sold": false
     },
     {
       "id": "marc-russell",
@@ -816,15 +842,17 @@
       "price": null,
       "location": "United States",
       "region": "south",
-      "note": "One family since 2008.",
+      "note": "One family since 2008. Posted March 23. Others asked if it sold; seller did not reply.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
           "url": "https://www.facebook.com/groups/carsfsbo/posts/2207412953417669/"
         }
-      ]
+      ],
+      "postedAt": "2026-03-23",
+      "sold": false
     },
     {
       "id": "lanel",
@@ -836,7 +864,7 @@
       "price": null,
       "location": "United States",
       "region": "south",
-      "note": "Full major service. Posted Oct 2024.",
+      "note": "Full major service. Posted Oct 2024. Posted October 27, 2024.",
       "image": null,
       "stale": true,
       "sources": [
@@ -844,7 +872,9 @@
           "label": "Exotic Cars FSBO",
           "url": "https://www.facebook.com/groups/carsfsbo/posts/1786222148870087/"
         }
-      ]
+      ],
+      "postedAt": "2024-10-27",
+      "sold": false
     },
     {
       "id": "dupont-cs",
@@ -856,15 +886,17 @@
       "price": null,
       "location": "United States",
       "region": "south",
-      "note": "No reserve on duPont Registry Live.",
+      "note": "No reserve on duPont Registry Live. Posted March 30. duPont Live auction date has passed.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
           "url": "https://www.facebook.com/groups/carsfsbo/posts/2214259959399635/"
         }
-      ]
+      ],
+      "postedAt": "2026-03-30",
+      "sold": false
     }
   ]
 }
