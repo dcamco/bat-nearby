@@ -1,6 +1,6 @@
 {
-  "updatedLabel": "Aug 25, 2026, 4:00 PM CT",
-  "blurb": "Ferrari 360s currently for sale from Bring a Trailer, Facebook Marketplace (city-hopped across the US), and your groups. Same car listed in more than one place is shown once, with every source linked.",
+  "updatedLabel": "Aug 25, 2026, 4:35 PM CT",
+  "blurb": "Ferrari 360s from Bring a Trailer, Facebook Marketplace, and your groups. Same car listed in more than one place is shown once. Sold and posts older than 3 months stay on the page, dimmed, at the bottom.",
   "listings": [
     {
       "id": "plano-cs-tribute",
@@ -12,7 +12,7 @@
       "price": 169000,
       "location": "Plano, TX",
       "region": "texas",
-      "note": "Challenge Stradale tribute, gated conversion (Modena Lucerna). Just listed.",
+      "note": "Challenge Stradale tribute, gated conversion (Modena Lucerna). Just listed. Listed 5 hours ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -68,7 +68,8 @@
           "label": "BaT",
           "url": "https://bringatrailer.com/listing/2004-ferrari-360-challenge-stradale-50/"
         }
-      ]
+      ],
+      "sold": false
     },
     {
       "id": "bat-1999-6spd",
@@ -88,7 +89,8 @@
           "label": "BaT",
           "url": "https://bringatrailer.com/listing/1999-ferrari-360-modena-66/"
         }
-      ]
+      ],
+      "sold": false
     },
     {
       "id": "bat-2002-spider",
@@ -108,7 +110,8 @@
           "label": "BaT 360 page",
           "url": "https://bringatrailer.com/ferrari/360/"
         }
-      ]
+      ],
+      "sold": false
     },
     {
       "id": "bat-2004-spider",
@@ -128,7 +131,8 @@
           "label": "BaT 360 page",
           "url": "https://bringatrailer.com/ferrari/360/"
         }
-      ]
+      ],
+      "sold": false
     },
     {
       "id": "bat-2001-spider-6",
@@ -148,7 +152,8 @@
           "label": "BaT 360 page",
           "url": "https://bringatrailer.com/ferrari/360/"
         }
-      ]
+      ],
+      "sold": false
     },
     {
       "id": "nj-2003-spider",
@@ -160,15 +165,17 @@
       "price": 130000,
       "location": "West Orange, NJ",
       "region": "east",
-      "note": null,
+      "note": "Listed 38 weeks ago.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/4335925063359971"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2025-12-02"
     },
     {
       "id": "roslyn-2001",
@@ -180,7 +187,7 @@
       "price": 129888,
       "location": "Roslyn, NY",
       "region": "east",
-      "note": null,
+      "note": "Listed 7 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -188,7 +195,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1671462427404950"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-07-07"
     },
     {
       "id": "freeport-143",
@@ -200,7 +209,7 @@
       "price": 143995,
       "location": "Freeport, NY",
       "region": "east",
-      "note": null,
+      "note": "Listed a week ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -208,7 +217,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1391481216276006"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-18"
     },
     {
       "id": "freeport-148",
@@ -220,7 +231,7 @@
       "price": 148000,
       "location": "Freeport, NY",
       "region": "east",
-      "note": "Possibly same dealer as the other Freeport Spider.",
+      "note": "Possibly same dealer as the other Freeport Spider. Listed 2 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -228,7 +239,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1565987348424842"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-11"
     },
     {
       "id": "dc-2004-spider",
@@ -240,7 +253,7 @@
       "price": 169900,
       "location": "Washington, DC",
       "region": "east",
-      "note": "Daytona seats, modular wheels. Same dealer car also listed in Cleveland and Seville, OH.",
+      "note": "Daytona seats, modular wheels. Same dealer car also listed in Cleveland and Seville, OH. Listed 2 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -256,7 +269,9 @@
           "label": "Seville OH",
           "url": "https://www.facebook.com/marketplace/item/1068554665694728"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-11"
     },
     {
       "id": "novi-2004",
@@ -268,7 +283,7 @@
       "price": 79000,
       "location": "Novi, MI",
       "region": "midwest",
-      "note": "Marketplace listed as 2004 Ferrari (360).",
+      "note": "Marketplace listed as 2004 Ferrari (360). Listed 5 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -276,7 +291,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1010992855190046"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-07-21"
     },
     {
       "id": "round-lake",
@@ -288,7 +305,7 @@
       "price": 196998,
       "location": "Round Lake, IL",
       "region": "midwest",
-      "note": null,
+      "note": "Listed 2 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -296,7 +313,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1371985624375605"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-11"
     },
     {
       "id": "downingtown",
@@ -308,7 +327,7 @@
       "price": 249000,
       "location": "Downingtown, PA",
       "region": "east",
-      "note": "Just listed.",
+      "note": "Just listed. Listed 2 hours ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -316,7 +335,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1052504517759164"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-25"
     },
     {
       "id": "germantown",
@@ -350,15 +371,17 @@
       "price": 74500,
       "location": "Las Vegas, NV",
       "region": "west",
-      "note": null,
+      "note": "Listed 20 weeks ago.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/758494913860908"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-04-07"
     },
     {
       "id": "vegas-modena",
@@ -370,9 +393,9 @@
       "price": 65000,
       "location": "Las Vegas, NV",
       "region": "west",
-      "note": "Was briefly listed at $790k (typo). A related tan Modena listing also showed $12k/$65k.",
+      "note": "Was briefly listed at $790k (typo). A related tan Modena listing also showed $12k/$65k. Listed a year ago.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Marketplace",
@@ -382,7 +405,9 @@
           "label": "Related listing",
           "url": "https://www.facebook.com/marketplace/item/1182626220205033"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2025-08-25"
     },
     {
       "id": "colton-spider",
@@ -394,7 +419,7 @@
       "price": 95000,
       "location": "Colton, CA",
       "region": "west",
-      "note": null,
+      "note": "Listed 2 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -402,7 +427,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1559923275499975"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-11"
     },
     {
       "id": "ventura",
@@ -414,7 +441,7 @@
       "price": 109999,
       "location": "Ventura, CA",
       "region": "west",
-      "note": null,
+      "note": "Listed a week ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -422,7 +449,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1033285349623613"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-18"
     },
     {
       "id": "thousand-oaks",
@@ -434,7 +463,7 @@
       "price": 180075,
       "location": "Thousand Oaks, CA",
       "region": "west",
-      "note": null,
+      "note": "Listed 3 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -442,7 +471,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/2631554797264156"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-04"
     },
     {
       "id": "colton-modena",
@@ -454,7 +485,7 @@
       "price": 225000,
       "location": "Colton, CA",
       "region": "west",
-      "note": "Arizona title. Also in 360 Owners Club (Skyler Shapiro).",
+      "note": "Arizona title. Also in 360 Owners Club (Skyler Shapiro). Listed a week ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -480,7 +511,7 @@
       "price": 99890,
       "location": "Newbury Park, CA",
       "region": "west",
-      "note": null,
+      "note": "Listed 4 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -488,7 +519,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1942080920016675"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-07-28"
     },
     {
       "id": "irvine-gated",
@@ -508,7 +541,8 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/2014129582582851"
         }
-      ]
+      ],
+      "sold": false
     },
     {
       "id": "panorama",
@@ -520,7 +554,7 @@
       "price": 170000,
       "location": "Panorama City, CA",
       "region": "west",
-      "note": null,
+      "note": "Listed 3 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -528,7 +562,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1577502847297136"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-08-04"
     },
     {
       "id": "costa-mesa",
@@ -540,15 +576,17 @@
       "price": 119900,
       "location": "Costa Mesa, CA",
       "region": "west",
-      "note": null,
+      "note": "Listed 24 weeks ago.",
       "image": null,
-      "stale": false,
+      "stale": true,
       "sources": [
         {
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1984118052314186"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-03-10"
     },
     {
       "id": "hb-gated-spider",
@@ -648,7 +686,7 @@
       "price": 89995,
       "location": "Mesa, AZ",
       "region": "west",
-      "note": "One of three Mesa Spider listings.",
+      "note": "One of three Mesa Spider listings. Listed 11 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -656,7 +694,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/3091012781088264"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-06-09"
     },
     {
       "id": "mesa-99",
@@ -668,7 +708,7 @@
       "price": 99995,
       "location": "Mesa, AZ",
       "region": "west",
-      "note": null,
+      "note": "Listed 11 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -676,7 +716,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1295122659444409"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-06-09"
     },
     {
       "id": "mesa-149",
@@ -688,7 +730,7 @@
       "price": 149995,
       "location": "Mesa, AZ",
       "region": "west",
-      "note": null,
+      "note": "Listed 12 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -696,7 +738,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1970953953783159"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-06-02"
     },
     {
       "id": "slc-6spd",
@@ -708,7 +752,7 @@
       "price": 359900,
       "location": "Salt Lake City, UT",
       "region": "west",
-      "note": "Marketplace listing. Chad Aalders\u2019 related gated post is also in the club.",
+      "note": "Marketplace listing. Chad Aalders\u2019 related gated post is also in the club. Listed 5 days ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -734,7 +778,7 @@
       "price": 100000,
       "location": "Portland, OR",
       "region": "west",
-      "note": null,
+      "note": "Listed 5 weeks ago.",
       "image": null,
       "stale": false,
       "sources": [
@@ -742,7 +786,9 @@
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/2034201250531145"
         }
-      ]
+      ],
+      "sold": false,
+      "postedAt": "2026-07-21"
     },
     {
       "id": "meridian",
