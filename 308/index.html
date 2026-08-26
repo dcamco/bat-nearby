@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Ferrari 360s for sale</title>
+  <title>Ferrari 308s for sale</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -64,9 +64,9 @@
 <body>
   <header>
     <div class="kicker">BaT · Marketplace · Groups</div>
-    <h1>Ferrari 360s for sale</h1>
-    <p class="lede" id="lede">A running board of 360s we found today. Texas and gated cars sit up top. Same car listed twice is one card with every link.</p>
-    <p class="nav"><a href="../">Nearby no-reserve BaT</a> · <a href="../308/">308 board</a></p>
+    <h1>Ferrari 308s for sale</h1>
+    <p class="lede" id="lede">A running board of 308s from BaT, Marketplace, and groups. Texas cars sit up top. Same car listed twice is one card with every link.</p>
+    <p class="nav"><a href="../">Nearby no-reserve BaT</a> · <a href="../360/">360 board</a></p>
   </header>
   <div class="filters" id="filters"></div>
   <main id="list"></main>
@@ -76,9 +76,10 @@
     const filters = [
       ["all", "All"],
       ["texas", "Near Texas"],
-      ["gated", "Gated"],
-      ["spider", "Spider"],
-      ["cs", "Challenge"],
+      ["gts", "GTS"],
+      ["gtb", "GTB"],
+      ["qv", "QV"],
+      ["gt4", "GT4"],
       ["bat", "Live BaT"],
       ["mp", "Marketplace"],
       ["grp", "Groups"],
@@ -90,9 +91,10 @@
       const src = (l.sources || []).map(s => s.label.toLowerCase()).join(" ");
       if (f === "all") return true;
       if (f === "texas") return l.region === "texas";
-      if (f === "gated") return l.trans === "gated";
-      if (f === "spider") return l.body === "Spider";
-      if (f === "cs") return l.body === "CS" || /tribute|challenge/i.test(l.title + (l.note||""));
+      if (f === "gts") return /GTS/i.test(l.body || "") || /GTS/i.test(l.title || "");
+      if (f === "gtb") return /GTB/i.test(l.body || "") || /GTB/i.test(l.title || "");
+      if (f === "qv") return /QV|Quattro/i.test(l.title + (l.note||"") + (l.body||""));
+      if (f === "gt4") return /GT4/i.test(l.body || "") || /GT4/i.test(l.title || "");
       if (f === "bat") return src.includes("bat");
       if (f === "mp") return src.includes("marketplace");
       if (f === "grp") return src.includes("club") || src.includes("fsbo") || src.includes("owners");
@@ -102,9 +104,8 @@
     const dimmed = (l) => !!(l.sold || l.stale);
     const rank = (l) => {
       if (l.region === "texas") return 0;
-      if (l.trans === "gated") return 1;
-      if ((l.sources||[]).some(s => /bat/i.test(s.label))) return 2;
-      return 3;
+      if ((l.sources||[]).some(s => /bat/i.test(s.label))) return 1;
+      return 2;
     };
 
     function render() {
@@ -115,22 +116,22 @@
       document.getElementById("count").textContent = dimN ? (liveN + " live · " + dimN + " dimmed") : (items.length + " cars");
       const root = document.getElementById("list");
       let lastBucket = null;
-      const bucketName = (l) => dimmed(l) ? "Sold or old posts" : l.region === "texas" ? "Near Texas" : l.trans === "gated" ? "Gated manuals" : ((l.sources||[]).some(s=>/bat/i.test(s.label)) ? "Live on BaT" : "Everywhere else");
+      const bucketName = (l) => dimmed(l) ? "Sold or old posts" : l.region === "texas" ? "Near Texas" : ((l.sources||[]).some(s=>/bat/i.test(s.label)) ? "Live on BaT" : "Everywhere else");
       root.innerHTML = items.map(l => {
         const b = bucketName(l);
         const label = (current === "all" && b !== lastBucket) ? `<div class="section-label">${b}</div>` : "";
         lastBucket = b;
         const chips = [
           l.region === "texas" ? `<span class="chip tx">Texas</span>` : "",
-          l.trans === "gated" ? `<span class="chip gated">Gated</span>` : l.trans === "F1" ? `<span class="chip">F1</span>` : "",
-          l.body === "CS" ? `<span class="chip">Challenge</span>` : l.body === "Spider" ? `<span class="chip">Spider</span>` : "",
+          /QV|Quattro/i.test((l.title||"")+(l.body||"")+(l.note||"")) ? `<span class="chip">QV</span>` : "",
+          l.body ? `<span class="chip">${l.body}</span>` : "",
           l.sold ? `<span class="chip sold">Sold</span>` : l.stale ? `<span class="chip stale">Old post</span>` : "",
         ].join("");
         const miles = l.miles != null ? l.miles.toLocaleString() + " miles" : "";
-        const bits = [l.location, miles, l.trans === "gated" ? "gated 6-speed" : l.trans === "F1" ? "F1" : ""].filter(Boolean).join(" · ");
+        const bits = [l.location, miles, l.trans === "gated" ? "gated 5-speed" : l.trans || ""].filter(Boolean).join(" · ");
         const img = l.image
           ? `<a class="shot" href="${l.sources[0].url}"><img src="${l.image}" alt="${l.title}"></a>`
-          : `<a class="shot" href="${l.sources[0].url}">${l.year || "360"}</a>`;
+          : `<a class="shot" href="${l.sources[0].url}">${l.year || "308"}</a>`;
         const links = (l.sources||[]).map(s => `<a href="${s.url}">${s.label}</a>`).join("");
         return `${label}<article class="${dimmed(l) ? "stale" : ""}">
           ${img}

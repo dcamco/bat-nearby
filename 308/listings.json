@@ -1,0 +1,366 @@
+{
+  "updatedLabel": "Aug 25, 2026, 7:20 PM CT",
+  "blurb": "Ferrari 308s from Bring a Trailer, Facebook Marketplace, and Exotic Cars FSBO. Texas cars sit up top. Same car listed twice is one card with every link. Sold and posts older than 3 months stay on the page, dimmed.",
+  "listings": [
+    {
+      "id": "austin-1981",
+      "year": 1981,
+      "title": "308",
+      "body": null,
+      "trans": "gated",
+      "miles": null,
+      "price": 88000,
+      "location": "Austin, TX",
+      "region": "texas",
+      "note": "Red over tan. Only Texas 308 on this sweep. Listed date not shown.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1982971972402337/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "prescott-1977-gtb",
+      "year": 1977,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 50800,
+      "price": 79000,
+      "location": "Prescott, AZ",
+      "region": "west",
+      "note": "Just listed. Early steel-bodied GTB, factory Webers, red/tan.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1605121477733420/"
+        }
+      ],
+      "postedAt": "2026-08-25",
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "bat-1981-gtbi",
+      "year": 1981,
+      "title": "308 GTBi Project",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 60000,
+      "price": 200,
+      "location": "Lynnwood, WA",
+      "region": "west",
+      "note": "Live BaT. Euro, 24 years owned, non-running. Recaros, 17s, aftermarket audio. Has a reserve. Ends Sep 1.",
+      "image": "photos/1981-ferrari-308-gtbi-8.jpg",
+      "sources": [
+        {
+          "label": "BaT",
+          "url": "https://bringatrailer.com/listing/1981-ferrari-308-gtbi-8/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "oh-qv-7714",
+      "year": 1985,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 7714,
+      "price": 189000,
+      "location": "Beachwood, OH",
+      "region": "midwest",
+      "note": "7,714 miles, major service 2022. Same car posted three times: $189k Beachwood, $195.9k Seville, $225.9k Cleveland.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace Beachwood $189k",
+          "url": "https://www.facebook.com/marketplace/item/1023715427314784/"
+        },
+        {
+          "label": "Seville $195.9k",
+          "url": "https://www.facebook.com/marketplace/item/1937900783547153/"
+        },
+        {
+          "label": "Cleveland $225.9k",
+          "url": "https://www.facebook.com/marketplace/item/1086204764340205/"
+        }
+      ],
+      "postedAt": "2026-08-18",
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "bountiful-euro-qv",
+      "year": 1985,
+      "title": "308 GTS QV Euro",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 24000,
+      "price": 106993,
+      "location": "Bountiful, UT",
+      "region": "west",
+      "note": "European-spec Quattrovalvole, red/tan. Listed 6 days ago.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1065010929380842/"
+        }
+      ],
+      "postedAt": "2026-08-19",
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "pinellas-1982-gts",
+      "year": 1982,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 72500,
+      "price": 89900,
+      "location": "Pinellas Park, FL",
+      "region": "east",
+      "note": "Silver/black, clean title. Listed 2 weeks ago.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1655562488850378/"
+        }
+      ],
+      "postedAt": "2026-08-11",
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "stpaul-1979-gts",
+      "year": 1979,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 67500,
+      "price": 78500,
+      "location": "St Paul, MN",
+      "region": "midwest",
+      "note": "Black/red, engine rebuilt, service records. Listed a week ago.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1585244193101946/"
+        }
+      ],
+      "postedAt": "2026-08-18",
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "fernandina-1979-gtb",
+      "year": 1979,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 55378,
+      "price": 124500,
+      "location": "Fernandina Beach, FL",
+      "region": "east",
+      "note": "Red/black. Listed 11 weeks ago.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/1534115288165598/"
+        }
+      ],
+      "postedAt": "2026-06-09",
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "weho-1978-gts",
+      "year": 1978,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": null,
+      "price": 58500,
+      "location": "West Hollywood, CA",
+      "region": "west",
+      "note": "Carbureted, targa. Shawn Shayan in Exotic Cars FSBO. Group permalink still being chased.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "sjc-1983-qv",
+      "year": 1983,
+      "title": "308 GTS QV",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": null,
+      "price": 83000,
+      "location": "San Juan Capistrano, CA",
+      "region": "west",
+      "note": "Two owners, full records, Tubi. Josh Stabile in Exotic Cars FSBO.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "brea-1979-gtb",
+      "year": 1979,
+      "title": "308 GTB Euro",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 45000,
+      "price": 105000,
+      "location": "Brea, CA",
+      "region": "west",
+      "note": "Euro dry-sump. Thomas Aguilar in Exotic Cars FSBO.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "phx-1985-gtsi",
+      "year": 1985,
+      "title": "308 GTSi Euro",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": null,
+      "price": 100000,
+      "location": "Phoenix, AZ",
+      "region": "west",
+      "note": "Euro spec, full history, coilovers/Brembos. Dan Bennatt in Exotic Cars FSBO. FB tagged it as a 599 by mistake.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "miami-lakes-1982",
+      "year": 1982,
+      "title": "308 GTSi",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 32000,
+      "price": 67990,
+      "location": "Miami Lakes, FL",
+      "region": "east",
+      "note": "Targa, fuel injection, A/C. SoFlo Classic Garage in Exotic Cars FSBO, also on eBay.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "mackechnie-1982",
+      "year": 1982,
+      "title": "308 GTSi",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": null,
+      "price": null,
+      "location": null,
+      "region": "other",
+      "note": "Tyler Mackechnie in Exotic Cars FSBO. 'Priced to sell.' VIN ZFFAA02A8C0041473. Price not in the preview.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Exotic Cars FSBO",
+          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false
+    },
+    {
+      "id": "sj-gt4",
+      "year": 1975,
+      "title": "Dino 308 GT4",
+      "body": "GT4",
+      "trans": "gated",
+      "miles": 34845,
+      "price": 69991,
+      "location": "San Jose, CA",
+      "region": "west",
+      "note": "Red/tan, clean title. Listed 42 weeks ago.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/817208447692834/"
+        }
+      ],
+      "postedAt": "2025-11-04",
+      "stale": true,
+      "sold": false
+    },
+    {
+      "id": "monterey-qv",
+      "year": 1985,
+      "title": "308 GTS QV",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 14955,
+      "price": 98000,
+      "location": "Monterey, CA",
+      "region": "west",
+      "note": "Red/tan. Listed 42 weeks ago.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Marketplace",
+          "url": "https://www.facebook.com/marketplace/item/805725098919947/"
+        }
+      ],
+      "postedAt": "2025-11-04",
+      "stale": true,
+      "sold": false
+    }
+  ]
+}
