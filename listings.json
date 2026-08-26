@@ -2,8 +2,8 @@
   "zip": "77006",
   "city": "Houston, TX",
   "source": "https://bringatrailer.com/no-reserve/?sortby=location",
-  "updatedAt": "2026-08-26T08:59:00-05:00",
-  "updatedLabel": "Aug 26, 2026, 8:59 AM CT",
+  "updatedAt": "2026-08-26T16:10:00-05:00",
+  "updatedLabel": "Aug 26, 2026, 4:10 PM CT",
   "listings": [
     {
       "id": "2016-land-rover-range-rover-184",
@@ -35,39 +35,23 @@
       "distanceLabel": "under 10 miles",
       "location": "Houston, TX 77056",
       "noReserve": true,
-      "description": "One-family-owned E36 in Avus Blue with a matching blue top, 64k miles. Soft top doesn’t power-retract and needs repair. Dings in the body, dent by the right headlight, loose door panels. Clean Carfax, clean Texas title."
+      "description": "One-family-owned E36 in Avus Blue with a matching blue top, 64k miles. Soft top doesn\u2019t power-retract and needs repair. Dings in the body, dent by the right headlight, loose door panels. Clean Carfax, clean Texas title."
     },
     {
       "id": "1987-toyota-land-cruiser-fj60-196",
       "title": "1987 Toyota Land Cruiser FJ60",
       "url": "https://bringatrailer.com/listing/1987-toyota-land-cruiser-fj60-196/",
       "image": "photos/1987-toyota-land-cruiser-fj60-196.jpg",
-      "bid": 6000,
-      "bidLabel": "$6,000",
-      "bids": 2,
-      "timeLeft": "1 day",
+      "bid": 6500,
+      "bidLabel": "$6,500",
+      "bids": 3,
+      "timeLeft": "21 hours",
       "ends": "Thursday, Aug 27, 2026 at 1:12 PM CT",
       "distanceMiles": 6,
       "distanceLabel": "under 10 miles",
       "location": "Houston, TX 77057",
       "noReserve": true,
       "description": "Beige over brown leather, Texas since new. Rebuilt 4.2-liter 2F, 4-speed manual, 2-speed transfer case. Cluster swapped so it shows 9k; seller estimates ~350k at the swap (TMU). Oil leak, transfer-case leak, smog equipment removed. Damage-free Carfax, Texas title."
-    },
-    {
-      "id": "2002-mercedes-benz-c32-amg-12",
-      "title": "2002 Mercedes-Benz C32 AMG",
-      "url": "https://bringatrailer.com/listing/2002-mercedes-benz-c32-amg-12/",
-      "image": "photos/2002-mercedes-benz-c32-amg-12.jpg",
-      "bid": 3200,
-      "bidLabel": "$3,200",
-      "bids": 9,
-      "timeLeft": "6 hours",
-      "ends": "Wednesday, Aug 26, 2026 at 2:34 PM CT",
-      "distanceMiles": 16,
-      "distanceLabel": "16 miles",
-      "location": "Houston, TX 77064",
-      "noReserve": true,
-      "description": "Brilliant Silver over black leather, 82k miles. Supercharged 3.2 V6, 5-speed SpeedShift, 18\" SSR wheels, sunroof, heated seats. Crack in the rear bumper cover, reverse light out. Damage-free Carfax, Oklahoma title."
     },
     {
       "id": "1969-lincoln-continental-mark-iii-18",
