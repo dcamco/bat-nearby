@@ -74,7 +74,7 @@
 </head>
 <body>
   <header>
-    <div class="kicker">BaT · Marketplace · Groups</div>
+    <div class="kicker">BaT · Marketplace · Groups · Dealers</div>
     <h1>Ferrari 308s for sale</h1>
     <p class="lede" id="lede">A running board of 308s from BaT, Marketplace, and groups. Texas cars sit up top. Same car listed twice is one card with every link.</p>
     <p class="nav"><a href="../">Nearby no-reserve BaT</a> · <a href="../360/">360 board</a></p>
@@ -93,6 +93,7 @@
       ["gt4", "GT4"],
       ["bat", "Live BaT"],
       ["mp", "Marketplace"],
+      ["dlr", "Dealers"],
       ["grp", "Groups"],
     ];
     let data = { listings: [] };
@@ -108,6 +109,7 @@
       if (f === "gt4") return /GT4/i.test(l.body || "") || /GT4/i.test(l.title || "");
       if (f === "bat") return src.includes("bat");
       if (f === "mp") return src.includes("marketplace");
+      if (f === "dlr") return /autotrader|hemmings|classic\.com|cars\.com/.test(src);
       if (f === "grp") return src.includes("club") || src.includes("fsbo") || src.includes("owners");
       return true;
     };

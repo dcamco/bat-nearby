@@ -1,6 +1,6 @@
 {
-  "updatedLabel": "Aug 25, 2026, 7:35 PM CT",
-  "blurb": "Ferrari 308s from Bring a Trailer, Facebook Marketplace, and Exotic Cars FSBO. Texas cars sit up top. Older than 3 months or sold sit in an expandable section at the bottom.",
+  "updatedLabel": "Aug 25, 2026, 7:55 PM CT",
+  "blurb": "Ferrari 308s from BaT, Marketplace, groups, Hemmings, Autotrader, and Classic.com. Texas cars sit up top. Older than 3 months or sold sit in an expandable section at the bottom.",
   "listings": [
     {
       "id": "austin-1981",
@@ -62,6 +62,10 @@
         {
           "label": "BaT",
           "url": "https://bringatrailer.com/listing/1981-ferrari-308-gtbi-8/"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1981-ferrari-308-gtbi-zffha01b000035961-4V7MXln/"
         }
       ],
       "postedAt": null,
@@ -78,7 +82,7 @@
       "price": 189000,
       "location": "Beachwood, OH",
       "region": "midwest",
-      "note": "7,714 miles, major service 2022. Same car posted three times: $189k Beachwood, $195.9k Seville, $225.9k Cleveland.",
+      "note": "7,714 miles, major service 2022. Same car posted three times: $189k Beachwood, $195.9k Seville, $225.9k Cleveland. Marshall Goldman Cleveland lists it at $225,900 / ~7k miles.",
       "image": null,
       "sources": [
         {
@@ -92,6 +96,10 @@
         {
           "label": "Cleveland $225.9k",
           "url": "https://www.facebook.com/marketplace/item/1086204764340205/"
+        },
+        {
+          "label": "Classic.com Marshall Goldman $225.9k",
+          "url": "https://www.classic.com/veh/1985-ferrari-308-gts-quattrovalvole-zffua13a8f0055-nwlxvlW/"
         }
       ],
       "postedAt": "2026-08-18",
@@ -130,12 +138,16 @@
       "price": 89900,
       "location": "Pinellas Park, FL",
       "region": "east",
-      "note": "Silver/black, clean title. Listed 2 weeks ago.",
+      "note": "Silver/black, clean title. Listed 2 weeks ago. Also on Classic.com (Gulf Coast Classics, VIN ZFFA02A8C0040677).",
       "image": null,
       "sources": [
         {
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1655562488850378/"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1982-ferrari-308-gtsi-zffa02a8c0040677-pJqZOGW/"
         }
       ],
       "postedAt": "2026-08-11",
@@ -174,12 +186,16 @@
       "price": 124500,
       "location": "Fernandina Beach, FL",
       "region": "east",
-      "note": "Red/black. Listed 11 weeks ago.",
+      "note": "Red/black. Listed 11 weeks ago. Hemmings asks $89,500 for what looks like the same 55k-mile car.",
       "image": null,
       "sources": [
         {
           "label": "Marketplace",
           "url": "https://www.facebook.com/marketplace/item/1534115288165598/"
+        },
+        {
+          "label": "Hemmings $89.5k",
+          "url": "https://www.hemmings.com/classifieds/listing/1979-ferrari-308gtb-fernandina-beach-fl-2867386"
         }
       ],
       "postedAt": "2026-06-09",
@@ -361,6 +377,929 @@
       "postedAt": "2025-11-04",
       "stale": true,
       "sold": false
+    },
+    {
+      "id": "dlr-1981-fort-lauderdale-035851",
+      "year": 1981,
+      "title": "308 GTSi",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 9628,
+      "price": 194900,
+      "location": "Fort Lauderdale, FL",
+      "region": "west",
+      "note": "Rosso/Beige, manual, 9.6k mi Ferrari Maserati Alfa Romeo Fort Lauderdale. VIN ZFFAA02A8B0035851.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1981/ferrari/308/102740594"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1981-ferrari-308-gtsi-zffaa02a8b0035851-p6wgg74/"
+        },
+        {
+          "label": "Cars.com",
+          "url": "https://www.cars.com/vehicledetail/2e1c2a8d-f298-4849-aa00-a0ed8d27c90b/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFAA02A8B0035851"
+    },
+    {
+      "id": "dlr-1978-miami-414200",
+      "year": 1978,
+      "title": "Dino 308 GT4",
+      "body": "GT4",
+      "trans": "gated",
+      "miles": 44445,
+      "price": 69900,
+      "location": "Miami, FL",
+      "region": "east",
+      "note": "Series-3 US car, Rosso Corsa/tan, 5-spd, 2019 belt service The Barn Miami. VIN 308GT414200.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1978/ferrari/308/102452786"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "308GT414200"
+    },
+    {
+      "id": "dlr-1979-indian-trail-152234",
+      "year": 1979,
+      "title": "308 (Bertone GT4-type, Carobu 3.5L)",
+      "body": "GT4",
+      "trans": "gated",
+      "miles": 47726,
+      "price": 135110,
+      "location": "Indian Trail, NC",
+      "region": "east",
+      "note": "Modified to 3.5L/270hp by Carobu; Rosso Chiaro/tan Euro Prestige Imports LLC. VIN 15234 (chassis F106AL 152234).",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1979/ferrari/308/102053159"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "15234 (chassis F106AL 152234)"
+    },
+    {
+      "id": "dlr-1975-los-angeles-l09274",
+      "year": 1975,
+      "title": "Dino 308 GT4",
+      "body": "GT4",
+      "trans": "gated",
+      "miles": 11256,
+      "price": 49950,
+      "location": "Los Angeles / Beverly Hills, CA",
+      "region": "west",
+      "note": "Bianco Polo/Blu, 11k mi, carbureted Beverly Hills Car Club. VIN 106AL09274.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1975/ferrari/308/102738177"
+        },
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1975-ferrari-308-beverly-hills-ca-2932417"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "106AL09274"
+    },
+    {
+      "id": "dlr-1985-cadillac-5",
+      "year": 1985,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 32325,
+      "price": 109995,
+      "location": "Cadillac, MI",
+      "region": "west",
+      "note": "Red/black, fresh major belt service Classic Car Deals.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1985/ferrari/308/101587994"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": null
+    },
+    {
+      "id": "dlr-1984-troy-049503",
+      "year": 1984,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 15700,
+      "price": 133700,
+      "location": "Troy, MI",
+      "region": "midwest",
+      "note": "Red/tan, books & records, fully serviced Classic Auto Showplace. VIN ZFFUA13A3E0049503.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1984/ferrari/308/101971432"
+        },
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1984-ferrari-308-troy-mi-2750497"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1984-ferrari-308-gts-qv-zffua13a3e0049503-nOaXaAp/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFUA13A3E0049503"
+    },
+    {
+      "id": "dlr-1977-astoria-26143",
+      "year": 1977,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 27000,
+      "price": 97500,
+      "location": "Astoria, NY",
+      "region": "west",
+      "note": "Carbureted GTB, silver/black, 37-yr ownership Gullwing Motor Cars. VIN 26143.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1977/ferrari/308/102750298"
+        },
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1977-ferrari-308-astoria-ny-2934317"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "26143"
+    },
+    {
+      "id": "dlr-1978-farmingdale-l10944",
+      "year": 1978,
+      "title": "Dino 308 GT4",
+      "body": "GT4",
+      "trans": "gated",
+      "miles": 48,
+      "price": 134900,
+      "location": "Farmingdale, NY",
+      "region": "east",
+      "note": "Restored Series II, Rosso Corsa/black, flared fenders; 48 mi since restoration Motorcar Classics. VIN 000000F106AL10944.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1978/ferrari/308/102790793"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "000000F106AL10944"
+    },
+    {
+      "id": "dlr-1975-huntington-station-10192",
+      "year": 1975,
+      "title": "Dino 308 GT4",
+      "body": "GT4",
+      "trans": "gated",
+      "miles": 23000,
+      "price": null,
+      "location": "Huntington Station, NY",
+      "region": "east",
+      "note": "Call for price; Giallo Modena/Nero, $30k+ work in 2024 Autosport Designs. VIN 10192.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1975/ferrari/308/102764422"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "10192"
+    },
+    {
+      "id": "dlr-1983-southampton-042017",
+      "year": 1983,
+      "title": "308 GTSi Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 23900,
+      "price": 139000,
+      "location": "Southampton, NY",
+      "region": "west",
+      "note": "Rosso Rubino Metallizzato/beige, same owner since 1991; price reduced Aventura Motors. VIN ZFFMA13A5D0042017.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1983/ferrari/308/102780607"
+        },
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1983-ferrari-308-southampton-ny-2948079"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1983-ferrari-308-gts-quattrovalvole-zffma13a5d0042-p6lOVgn/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFMA13A5D0042017"
+    },
+    {
+      "id": "dlr-1984-auburn-052431",
+      "year": 1984,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 38499,
+      "price": 89900,
+      "location": "Auburn, MA",
+      "region": "east",
+      "note": "Rosso Corsa/tan, 5-spd High Octane Classics. VIN ZFFLA13B000052431.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1984/ferrari/308/102785981"
+        },
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1981-ferrari-308-auburn-ma-2821085"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1984-ferrari-308-gts-zffla13b000052431-4yQR9y4/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFLA13B000052431"
+    },
+    {
+      "id": "dlr-1977-auburn-l13960",
+      "year": 1977,
+      "title": "Dino 308 GT4",
+      "body": "GT4",
+      "trans": "gated",
+      "miles": 32277,
+      "price": 69000,
+      "location": "Auburn, MA",
+      "region": "east",
+      "note": "Red/black, serviced by IFS Motorsports High Octane Classics. VIN F106AL13960.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1977/ferrari/308/102409117"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "F106AL13960"
+    },
+    {
+      "id": "dlr-1978-culver-city-26843",
+      "year": 1978,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 11925,
+      "price": 229000,
+      "location": "Culver City, CA",
+      "region": "west",
+      "note": "Giallo Fly/tan, unmodified carbureted; same chassis appears as dealer listing at $229k Sotheby's Motorsport (auction listing) / Black Horse Garage $229,000. VIN 26843.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Autotrader",
+          "url": "https://classics.autotrader.com/classic-cars/1978/ferrari/308/102809404"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1978-ferrari-308-gts-26843-n1POkG4/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "26843"
+    },
+    {
+      "id": "dlr-1979-cave-creek-14",
+      "year": 1979,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 7000,
+      "price": 119750,
+      "location": "Cave Creek, AZ",
+      "region": "west",
+      "note": "7k original miles, red/tan, major service Dec 2024 private.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1979-ferrari-308-cave-creek-az-2960029"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": null
+    },
+    {
+      "id": "dlr-1979-beverly-hills-15",
+      "year": 1979,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": null,
+      "price": 69950,
+      "location": "Beverly Hills, CA",
+      "region": "west",
+      "note": "Rosso Corsa/Nero Beverly Hills Car Club.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1979-ferrari-308-beverly-hills-ca-2958201"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": null
+    },
+    {
+      "id": "dlr-1984-boiling-springs-16",
+      "year": 1984,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 58370,
+      "price": 88990,
+      "location": "Boiling Springs, SC",
+      "region": "east",
+      "note": "Gray/black, all original, service records private.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1984-ferrari-308-boiling-springs-sc-2953135"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": null
+    },
+    {
+      "id": "dlr-1977-beverly-hills-17",
+      "year": 1977,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 28687,
+      "price": 39950,
+      "location": "Beverly Hills, CA",
+      "region": "west",
+      "note": "Rosso Corsa/Marrone Beverly Hills Car Club.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1977-ferrari-308-beverly-hills-ca-2952434"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": null
+    },
+    {
+      "id": "dlr-1985-atlanta-052xxx",
+      "year": 1985,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 15000,
+      "price": 225000,
+      "location": "Atlanta, GA",
+      "region": "east",
+      "note": "Bianco/beige, final production year Merlin Auto Group. VIN ZFFUA13A6F0052xxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1985-ferrari-308-atlanta-ga-2948344"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1985-ferrari-308-gts-quattrovalvole-zffua13a6f0052-pP3VdoW/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFUA13A6F0052xxx"
+    },
+    {
+      "id": "dlr-1979-beverly-hills-19",
+      "year": 1979,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 28557,
+      "price": 89950,
+      "location": "Beverly Hills, CA",
+      "region": "west",
+      "note": "Rosso Chiaro/Nero Beverly Hills Car Club.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1979-ferrari-308-beverly-hills-ca-2939411"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": null
+    },
+    {
+      "id": "dlr-1985-atlanta-053xxx",
+      "year": 1985,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 18000,
+      "price": 198826,
+      "location": "Atlanta, GA",
+      "region": "east",
+      "note": "Nero over Nero, <18k mi Merlin Auto Group. VIN ZFFLA13B000053xxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1985-ferrari-308-atlanta-ga-2912532"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1985-ferrari-308-gts-quattrovalvole-zffla13b000053-nmxRo24/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFLA13B000053xxx"
+    },
+    {
+      "id": "dlr-1984-atlanta-050xxx",
+      "year": 1984,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 28000,
+      "price": 225826,
+      "location": "Atlanta, GA",
+      "region": "east",
+      "note": "Award winner, private collection Merlin Auto Group. VIN ZFFUA13AXE0050xxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1984-ferrari-308-atlanta-ga-2876853"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1984-ferrari-308-gts-quattrovalvole-zffua13axe0050-4Mz7Kgn/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFUA13AXE0050xxx"
+    },
+    {
+      "id": "dlr-1983-atlanta-047xxx",
+      "year": 1983,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 22250,
+      "price": 225826,
+      "location": "Atlanta, GA",
+      "region": "east",
+      "note": "Ferrari Classiche certified Merlin Auto Group. VIN ZFFMA13A0D0047xxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1983-ferrari-308-atlanta-ga-2876852"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1983-ferrari-308-gts-quattrovalvole-zffma13a0d0047-pg6kReW/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFMA13A0D0047xxx"
+    },
+    {
+      "id": "dlr-1983-atlanta-041xxx",
+      "year": 1983,
+      "title": "308 GTB Quattrovalvole",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 15000,
+      "price": 195826,
+      "location": "Atlanta, GA",
+      "region": "east",
+      "note": "Rosso Fer 302/C over tan Merlin Auto Group. VIN ZFFMA12A8D0041xxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1983-ferrari-308-atlanta-ga-2841952"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1983-ferrari-308-gtb-quattrovalvole-zffma12a8d0041-450DAAp/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFMA12A8D0041xxx"
+    },
+    {
+      "id": "dlr-1978-atlanta-26215",
+      "year": 1978,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 17000,
+      "price": 150826,
+      "location": "Atlanta, GA",
+      "region": "east",
+      "note": "Carbureted GTB, recent major service; by appointment Merlin Auto Group. VIN 26215.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Hemmings",
+          "url": "https://www.hemmings.com/classifieds/listing/1978-ferrari-308-atlanta-ga-2747911"
+        },
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1978-ferrari-308-gtb-26215-WNBzyEW/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "26215"
+    },
+    {
+      "id": "dlr-1984-saint-louis-county-051xxx",
+      "year": 1984,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 26000,
+      "price": 151990,
+      "location": "Saint Louis County, MO",
+      "region": "west",
+      "note": "Midnight Motorsports LLC. VIN ZFFUA13A9E0051xxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1984-ferrari-308-gts-quattrovalvole-zffua13a9e0051-pGAM3Yn/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFUA13A9E0051xxx"
+    },
+    {
+      "id": "dlr-1978-mercer-county-26621",
+      "year": 1978,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 62000,
+      "price": 94988,
+      "location": "Mercer County, NJ",
+      "region": "west",
+      "note": "Interstate Motorsport. VIN 26621.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1978-ferrari-308-gts-26621-nl2j6dp/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "26621"
+    },
+    {
+      "id": "dlr-1976-boulder-county-b19783",
+      "year": 1976,
+      "title": "308 GTB Vetroresina",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 32000,
+      "price": 201000,
+      "location": "Boulder County, CO",
+      "region": "west",
+      "note": "Modified; TMU odometer SELTEN. VIN F106AB19783.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1976-ferrari-308-gtb-vetroresina-f106ab19783-pGQvEgn/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "F106AB19783"
+    },
+    {
+      "id": "dlr-1980-dupage-county-031801",
+      "year": 1980,
+      "title": "308 GTSi",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 21000,
+      "price": 94999,
+      "location": "DuPage County, IL",
+      "region": "west",
+      "note": "Continental AutoSports. VIN 8A0031801.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1980-ferrari-308-gtsi-8a0031801-4Axzavp/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "8A0031801"
+    },
+    {
+      "id": "dlr-1976-dupage-county-19145",
+      "year": 1976,
+      "title": "308 GTB Vetroresina",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 46000,
+      "price": 239900,
+      "location": "DuPage County, IL",
+      "region": "west",
+      "note": "Continental AutoSports. VIN 19145.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1976-ferrari-308-gtb-vetroresina-19145-Y4raGLp/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "19145"
+    },
+    {
+      "id": "dlr-1979-nassau-county-28245",
+      "year": 1979,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 60000,
+      "price": 109500,
+      "location": "Nassau County, NY",
+      "region": "west",
+      "note": "Listing last updated ~1 year ago; verify still available FlowHaus. VIN 28245.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1979-ferrari-308-gtb-28245-nBEqqN4/"
+        }
+      ],
+      "postedAt": null,
+      "stale": true,
+      "sold": false,
+      "vin": "28245"
+    },
+    {
+      "id": "dlr-1979-thousand-oaks-s30583",
+      "year": 1979,
+      "title": "308 GTS",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 2000,
+      "price": null,
+      "location": "Thousand Oaks, CA",
+      "region": "west",
+      "note": "Price not listed; updated ~1 year ago WOB Cars. VIN F106AS30583.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1979-ferrari-308-gts-f106as30583-RWLQdxp/"
+        }
+      ],
+      "postedAt": null,
+      "stale": true,
+      "sold": false,
+      "vin": "F106AS30583"
+    },
+    {
+      "id": "dlr-1977-dublin-21695",
+      "year": 1977,
+      "title": "308 GTB",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 38000,
+      "price": 124283,
+      "location": "Dublin, OH",
+      "region": "midwest",
+      "note": "Maserati Columbus. VIN 21695.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1977-ferrari-308-gtb-21695-p6rqa7p/"
+        },
+        {
+          "label": "Cars.com",
+          "url": "https://www.cars.com/vehicledetail/f16bfb19-6778-4d37-8acd-12c211c4a95f/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "21695"
+    },
+    {
+      "id": "dlr-1984-saratoga-springs-048xxx",
+      "year": 1984,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 40000,
+      "price": null,
+      "location": "Saratoga Springs, NY",
+      "region": "east",
+      "note": "LIVE auction ends ~Sep 18 2026; modified Saratoga Motorcar Auctions. VIN ZFFLA13B000048xxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1984-ferrari-308-gts-quattrovalvole-zffla13b000048-4V7MZDn/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFLA13B000048xxx"
+    },
+    {
+      "id": "dlr-1980-sarasota-031623",
+      "year": 1980,
+      "title": "308 GTSi",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 41000,
+      "price": 69500,
+      "location": "Sarasota, FL",
+      "region": "east",
+      "note": "Cardreams.net by Vantasticautos. VIN ZFFAA12AXA0031623.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1980-ferrari-308-gtsi-zffaa12axa0031623-WNG82rp/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFAA12AXA0031623"
+    },
+    {
+      "id": "dlr-1981-cleveland-034729",
+      "year": 1981,
+      "title": "308 GTBi",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 7000,
+      "price": 109995,
+      "location": "Cleveland, OH",
+      "region": "midwest",
+      "note": "7k miles Tradewinds Motor Center LLC. VIN ZFFAA01A4B0034729.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1981-ferrari-308-gtbi-zffaa01a4b0034729-n1ea7Ln/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFAA01A4B0034729"
+    },
+    {
+      "id": "dlr-1983-fort-lauderdale-04xxxx",
+      "year": 1983,
+      "title": "308 GTS Quattrovalvole",
+      "body": "GTS",
+      "trans": "gated",
+      "miles": 37000,
+      "price": 89900,
+      "location": "Fort Lauderdale, FL",
+      "region": "west",
+      "note": "Miami Auto Broker. VIN ZFFMA13A0D004xxxx.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Classic.com",
+          "url": "https://www.classic.com/veh/1983-ferrari-308-gtsi-quattrovalvole-zffma13a0d004-WveGRyn/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": "ZFFMA13A0D004xxxx"
+    },
+    {
+      "id": "dlr-1976-lake-bluff-40",
+      "year": 1976,
+      "title": "308 GTB (Vetroresina)",
+      "body": "GTB",
+      "trans": "gated",
+      "miles": 27666,
+      "price": 229000,
+      "location": "Lake Bluff, IL",
+      "region": "midwest",
+      "note": "Official Ferrari dealer listing; price recently cut $20k Ferrari Lake Forest.",
+      "image": null,
+      "sources": [
+        {
+          "label": "Cars.com",
+          "url": "https://www.cars.com/vehicledetail/9cafcfd3-6aeb-415d-90df-0744ea5a67e3/"
+        }
+      ],
+      "postedAt": null,
+      "stale": false,
+      "sold": false,
+      "vin": null
     }
   ]
 }
