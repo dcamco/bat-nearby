@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Aug 25, 2026, 7:20 PM CT",
+  "updatedLabel": "Aug 25, 2026, 7:35 PM CT",
   "blurb": "Ferrari 308s from Bring a Trailer, Facebook Marketplace, and Exotic Cars FSBO. Texas cars sit up top. Same car listed twice is one card with every link. Sold and posts older than 3 months stay on the page, dimmed.",
   "listings": [
     {
@@ -196,16 +196,16 @@
       "price": 58500,
       "location": "West Hollywood, CA",
       "region": "west",
-      "note": "Carbureted, targa. Shawn Shayan in Exotic Cars FSBO. Group permalink still being chased.",
+      "note": "Carbureted, targa. Shawn Shayan in Exotic Cars FSBO. Posted Apr 23, 2024.",
       "image": null,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
-          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1654810882011215/"
         }
       ],
-      "postedAt": null,
-      "stale": false,
+      "postedAt": "2024-04-23",
+      "stale": true,
       "sold": false
     },
     {
@@ -218,16 +218,16 @@
       "price": 83000,
       "location": "San Juan Capistrano, CA",
       "region": "west",
-      "note": "Two owners, full records, Tubi. Josh Stabile in Exotic Cars FSBO.",
+      "note": "Two owners, full records, Tubi. Josh Stabile in Exotic Cars FSBO. Posted Nov 12, 2025.",
       "image": null,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
-          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/2089325601893072/"
         }
       ],
-      "postedAt": null,
-      "stale": false,
+      "postedAt": "2025-11-12",
+      "stale": true,
       "sold": false
     },
     {
@@ -240,16 +240,16 @@
       "price": 105000,
       "location": "Brea, CA",
       "region": "west",
-      "note": "Euro dry-sump. Thomas Aguilar in Exotic Cars FSBO.",
+      "note": "Euro dry-sump. Thomas Aguilar in Exotic Cars FSBO. Posted Sep 27, 2023.",
       "image": null,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
-          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1530580864434218/"
         }
       ],
-      "postedAt": null,
-      "stale": false,
+      "postedAt": "2023-09-27",
+      "stale": true,
       "sold": false
     },
     {
@@ -262,16 +262,16 @@
       "price": 100000,
       "location": "Phoenix, AZ",
       "region": "west",
-      "note": "Euro spec, full history, coilovers/Brembos. Dan Bennatt in Exotic Cars FSBO. FB tagged it as a 599 by mistake.",
+      "note": "Euro spec, full history, coilovers/Brembos. Dan Bennatt in Exotic Cars FSBO. Posted Apr 22, 2022. FB tagged it as a 599 by mistake.",
       "image": null,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
-          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1187000318792276/"
         }
       ],
-      "postedAt": null,
-      "stale": false,
+      "postedAt": "2022-04-22",
+      "stale": true,
       "sold": false
     },
     {
@@ -284,16 +284,16 @@
       "price": 67990,
       "location": "Miami Lakes, FL",
       "region": "east",
-      "note": "Targa, fuel injection, A/C. SoFlo Classic Garage in Exotic Cars FSBO, also on eBay.",
+      "note": "Targa, fuel injection, A/C. SoFlo Classic Garage in Exotic Cars FSBO. Posted Sep 27, 2023. Ad still up.",
       "image": null,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
-          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/1530060454486259/"
         }
       ],
-      "postedAt": null,
-      "stale": false,
+      "postedAt": "2023-09-27",
+      "stale": true,
       "sold": false
     },
     {
@@ -302,21 +302,21 @@
       "title": "308 GTSi",
       "body": "GTS",
       "trans": "gated",
-      "miles": null,
-      "price": null,
-      "location": null,
-      "region": "other",
-      "note": "Tyler Mackechnie in Exotic Cars FSBO. 'Priced to sell.' VIN ZFFAA02A8C0041473. Price not in the preview.",
+      "miles": 29000,
+      "price": 72500,
+      "location": "Miami, FL",
+      "region": "east",
+      "note": "Pending. Tyler Mackechnie: dealer trade at $70k in coming days, or private party $72.5k. VIN ZFFAA02A8C0041473. Posted Jul 19, 2026.",
       "image": null,
       "sources": [
         {
           "label": "Exotic Cars FSBO",
-          "url": "https://www.facebook.com/groups/carsfsbo/search/?q=308"
+          "url": "https://www.facebook.com/groups/carsfsbo/posts/2314226102736353/"
         }
       ],
-      "postedAt": null,
+      "postedAt": "2026-07-19",
       "stale": false,
-      "sold": false
+      "sold": true
     },
     {
       "id": "sj-gt4",

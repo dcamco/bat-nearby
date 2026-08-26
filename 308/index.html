@@ -125,7 +125,7 @@
           l.region === "texas" ? `<span class="chip tx">Texas</span>` : "",
           /QV|Quattro/i.test((l.title||"")+(l.body||"")+(l.note||"")) ? `<span class="chip">QV</span>` : "",
           l.body ? `<span class="chip">${l.body}</span>` : "",
-          l.sold ? `<span class="chip sold">Sold</span>` : l.stale ? `<span class="chip stale">Old post</span>` : "",
+          l.sold ? `<span class="chip sold">${/pending/i.test(l.note||"") ? "Pending" : "Sold"}</span>` : l.stale ? `<span class="chip stale">Old post</span>` : "",
         ].join("");
         const miles = l.miles != null ? l.miles.toLocaleString() + " miles" : "";
         const bits = [l.location, miles, l.trans === "gated" ? "gated 5-speed" : l.trans || ""].filter(Boolean).join(" · ");
