@@ -2,8 +2,8 @@
   "zip": "77006",
   "city": "Houston, TX",
   "source": "https://bringatrailer.com/no-reserve/?sortby=location",
-  "updatedAt": "2026-09-14T16:36:00-05:00",
-  "updatedLabel": "Sep 14, 2026, 4:36 PM CT",
+  "updatedAt": "2026-09-15T08:23:00-05:00",
+  "updatedLabel": "Sep 15, 2026, 8:23 AM CT",
   "listings": [
     {
       "id": "1965-jaguar-e-type-series-1-coupe-8",
@@ -19,7 +19,7 @@
       "distanceLabel": "under 10 miles",
       "location": "Houston, TX 77008",
       "noReserve": true,
-      "description": "Series I coupe; Opalescent Golden Sand repaint, County Tan re-trim, and 4.2 rebuild (2012–2014 Euro Sport). 5-speed. Houston, TX 77008 no-reserve."
+      "description": "Series I coupe; Opalescent Golden Sand repaint, County Tan re-trim, and 4.2 rebuild (2012\u20132014 Euro Sport). 5-speed. Houston, TX 77008 no-reserve."
     },
     {
       "id": "1974-yamaha-tx750",
@@ -68,6 +68,22 @@
       "location": "Spring, TX 77380",
       "noReserve": true,
       "description": "California-from-new Z8; original owner until earlier this year. Titanium Silver Metallic over black Nappa, 4.9 V8, 6-speed. Spring, TX 77380 dealer no-reserve."
+    },
+    {
+      "id": "2003-ford-thunderbird-172",
+      "title": "25k-Mile 2003 Ford Thunderbird 007 Edition",
+      "url": "https://bringatrailer.com/listing/2003-ford-thunderbird-172/",
+      "image": "photos/2003-ford-thunderbird-172.jpg",
+      "bid": 3500,
+      "bidLabel": "$3,500",
+      "bids": 3,
+      "timeLeft": "6 days",
+      "ends": "Monday, Sep 21, 2026 at 2:29 PM CT",
+      "distanceMiles": 40,
+      "distanceLabel": "40 miles",
+      "location": "Spring, TX 77380",
+      "noReserve": true,
+      "description": "25k-mile #516 of 700 Thunderbird 007 Edition (Die Another Day). Dealer no-reserve, Spring, TX 77380; window sticker, owner's manual, car cover."
     }
   ]
 }
