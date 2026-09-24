@@ -2,8 +2,8 @@
   "zip": "77006",
   "city": "Houston, TX",
   "source": "https://bringatrailer.com/no-reserve/?sortby=location",
-  "updatedAt": "2026-09-23T16:18:00-05:00",
-  "updatedLabel": "Sep 23, 2026, 4:18 PM CT",
+  "updatedAt": "2026-09-24T08:23:52.241760-05:00",
+  "updatedLabel": "Sep 24, 2026, 8:23 AM CT",
   "listings": [
     {
       "id": "2014-scion-iq-4",
@@ -23,7 +23,7 @@
     },
     {
       "id": "wheels-720",
-      "title": "14×7.5″ Campagnolo Wheels for Ferrari 308",
+      "title": "14\u00d77.5\u2033 Campagnolo Wheels for Ferrari 308",
       "url": "https://bringatrailer.com/listing/wheels-720/",
       "image": "photos/wheels-720.jpg",
       "bid": 1000,
@@ -35,7 +35,7 @@
       "distanceLabel": "22 miles",
       "location": "Spring, TX 77373",
       "noReserve": true,
-      "description": "14×7.5″ Campagnolo magnesium wheels (PN 40899) for Ferrari 308, repainted silver with yellow prancing-horse center caps. Spring, TX 77373; no-reserve."
+      "description": "14\u00d77.5\u2033 Campagnolo magnesium wheels (PN 40899) for Ferrari 308, repainted silver with yellow prancing-horse center caps. Spring, TX 77373; no-reserve."
     },
     {
       "id": "1960-mustang-thoroughbred",
@@ -52,6 +52,22 @@
       "location": "Austin, TX 78741",
       "noReserve": true,
       "description": "1960 Mustang Thoroughbred minibike, refurbished prior ownership; tubes/tires/plug/oil under current owner. 320cc flathead single, 4-speed; Austin, TX 78741; no-reserve."
+    },
+    {
+      "id": "2000-mercedes-benz-c220-cdi-wagon-2",
+      "title": "73k-Kilometer Euro Mercedes-Benz C220 CDI Wagon 5-Speed",
+      "url": "https://bringatrailer.com/listing/2000-mercedes-benz-c220-cdi-wagon-2/",
+      "image": "photos/2000-mercedes-benz-c220-cdi-wagon-2.jpg",
+      "bid": 2000,
+      "bidLabel": "$2,000",
+      "bids": 1,
+      "timeLeft": "6 days",
+      "ends": "Wednesday, Sep 30, 2026 at 4:09 PM CT",
+      "distanceMiles": 146,
+      "distanceLabel": "146 miles",
+      "location": "Round Rock, TX 78665",
+      "noReserve": true,
+      "description": "Euro-market C220 CDI wagon, 5-speed manual, ~73k km (~45k mi). Brilliant Silver Metallic; Round Rock, TX 78665; no-reserve."
     },
     {
       "id": "2002-mercedes-benz-sl500-silver-arrow-135",
@@ -74,9 +90,9 @@
       "title": "2026 Honda CRF 110F BVC Conversion Big Wheel",
       "url": "https://bringatrailer.com/listing/2026-honda-crf-110f/",
       "image": "photos/2026-honda-crf-110f.jpg",
-      "bid": 5100,
-      "bidLabel": "$5,100",
-      "bids": 3,
+      "bid": 5500,
+      "bidLabel": "$5,500",
+      "bids": 5,
       "timeLeft": "1 day",
       "ends": "Friday, Sep 25, 2026 at 2:55 PM CT",
       "distanceMiles": 146,
