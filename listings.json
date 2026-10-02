@@ -2,8 +2,8 @@
   "zip": "77006",
   "city": "Houston, TX",
   "source": "https://bringatrailer.com/no-reserve/?sortby=location",
-  "updatedAt": "2026-10-02T08:03:30-05:00",
-  "updatedLabel": "Oct 2, 2026, 8:03 AM CT",
+  "updatedAt": "2026-10-02T16:06:40-05:00",
+  "updatedLabel": "Oct 2, 2026, 4:06 PM CT",
   "listings": [
     {
       "id": "1986-gmc-k2500-9",
@@ -36,54 +36,6 @@
       "location": "Houston, TX 77024",
       "noReserve": true,
       "description": "This 1997 Lexus LX450 has a registration history in Texas and was outfitted under previous ownership with a Dobinsons 2\" suspension lift and front and rear bumpers, as well as a roof rack, a brush guard, front fender guards, a front winc\u2026 Houston, TX 77024; no-reserve."
-    },
-    {
-      "id": "wheels-724",
-      "title": "19\u00d78.5\u2033 and 19\u00d710.5\u2033 BBS Modular Wheels for Ferrari 575M",
-      "url": "https://bringatrailer.com/listing/wheels-724/",
-      "image": "photos/wheels-724.jpg",
-      "bid": 12296,
-      "bidLabel": "$12,296",
-      "bids": 15,
-      "timeLeft": "5 hours",
-      "ends": "Friday, Oct 2, 2026 at 1:58 PM CT",
-      "distanceMiles": 19,
-      "distanceLabel": "19 miles",
-      "location": "Houston, TX 77059",
-      "noReserve": true,
-      "description": "BBS manufactured these two-piece 19\u2033 wheels for Ferrari 575M models equipped with the HGTC Package, as well as the 575 Superamerica. The wheels were last used on a 550 Maranello an\u2026 Houston, Texas, 77059; no-reserve."
-    },
-    {
-      "id": "2018-bmw-440i-coupe-3",
-      "title": "2018 BMW 440i Coupe Sport 6-Speed",
-      "url": "https://bringatrailer.com/listing/2018-bmw-440i-coupe-3/",
-      "image": "photos/2018-bmw-440i-coupe-3.jpg",
-      "bid": 14500,
-      "bidLabel": "$14,500",
-      "bids": 9,
-      "timeLeft": "5 hours",
-      "ends": "Friday, Oct 2, 2026 at 1:07 PM CT",
-      "distanceMiles": 20,
-      "distanceLabel": "20 miles",
-      "location": "Friendswood, TX 77546",
-      "noReserve": true,
-      "description": "55k-Mile 2018 BMW 440i Sport Line coupe; turbo 3.0 I6 6-speed manual; Sunset Orange Metallic over Cognac Dakota leather; sunroof, xenon headlights, LED fogs, M Sport. Friendswood, TX 77546; no-reserve. Bidding open."
-    },
-    {
-      "id": "2008-ford-ranger-19",
-      "title": "48k-Mile 2008 Ford Ranger XLT 4\u00d74",
-      "url": "https://bringatrailer.com/listing/2008-ford-ranger-19/",
-      "image": "photos/2008-ford-ranger-19.jpg",
-      "bid": 12000,
-      "bidLabel": "$12,000",
-      "bids": 12,
-      "timeLeft": "4 hours",
-      "ends": "Friday, Oct 2, 2026 at 12:30 PM CT",
-      "distanceMiles": 25,
-      "distanceLabel": "25 miles",
-      "location": "League City, TX 77573",
-      "noReserve": true,
-      "description": "48k-Mile 2008 Ford Ranger XLT 4\u00d74; 3.0 Vulcan V6 5-speed automatic; Vista Blue Metallic over Ebony/Blue cloth; tonneau, bed extender, 16\" alloys. League City, TX 77573; no-reserve."
     },
     {
       "id": "2008-lexus-ls600h-l-13",
@@ -154,9 +106,9 @@
       "title": "Porsche 356C Type 616/15 Engine",
       "url": "https://bringatrailer.com/listing/engine-362/",
       "image": "photos/engine-362.jpg",
-      "bid": 3000,
-      "bidLabel": "$3,000",
-      "bids": 3,
+      "bid": 3600,
+      "bidLabel": "$3,600",
+      "bids": 6,
       "timeLeft": "3 days",
       "ends": "Monday, Oct 5, 2026 at 12:52 PM CT",
       "distanceMiles": 143,
@@ -164,22 +116,6 @@
       "location": "Martindale, TX 78655",
       "noReserve": true,
       "description": "Porsche 356C Type 616/15 flat-four engine (case P\u2606716511\u2606); modified with 86 mm pistons and SC/912-spec camshaft per seller; dual Weber carburetors w/filters, ignition coil & distributor, flywheel; running video in gallery. Martindale, TX 78655; no-reserve."
-    },
-    {
-      "id": "2001-porsche-911-carrera-cabriolet-143",
-      "title": "4,200-Mile 2001 Porsche 911 Carrera Cabriolet",
-      "url": "https://bringatrailer.com/listing/2001-porsche-911-carrera-cabriolet-143/",
-      "image": "photos/2001-porsche-911-carrera-cabriolet-143.jpg",
-      "bid": 25000,
-      "bidLabel": "$25,000",
-      "bids": 12,
-      "timeLeft": "7 hours",
-      "ends": "Friday, Oct 2, 2026 at 3:20 PM CT",
-      "distanceMiles": 146,
-      "distanceLabel": "146 miles",
-      "location": "Round Rock, TX 78665",
-      "noReserve": true,
-      "description": "4,200-Mile 2001 Porsche 911 Carrera cabriolet; Guards Red over Savannah Beige leather; color-matched hardtop, xenon, 18\u2033 Sport Classic wheels; 3.4 flat-six 5-speed auto. Round Rock, TX 78665; no-reserve."
     }
   ]
 }
