@@ -2,8 +2,8 @@
   "zip": "77006",
   "city": "Houston, TX",
   "source": "https://bringatrailer.com/no-reserve/?sortby=location",
-  "updatedAt": "2026-10-24T16:01:48-05:00",
-  "updatedLabel": "Oct 24, 2026, 4:01 PM CT",
+  "updatedAt": "2026-10-25T08:00:20-05:00",
+  "updatedLabel": "Oct 25, 2026, 8:00 AM CT",
   "listings": [
     {
       "id": "1981-honda-c70-passport-49",
@@ -42,9 +42,9 @@
       "title": "1991 Mazda RX-7 Convertible 5-Speed",
       "url": "https://bringatrailer.com/listing/1991-mazda-rx-7-convertible-39/",
       "image": "photos/1991-mazda-rx-7-convertible-39.jpg",
-      "bid": 987,
-      "bidLabel": "$987",
-      "bids": 2,
+      "bid": 1500,
+      "bidLabel": "$1,500",
+      "bids": 3,
       "timeLeft": "4 days",
       "ends": "Thursday, Oct 29, 2026 at 12:54 PM CT",
       "distanceMiles": 49,
