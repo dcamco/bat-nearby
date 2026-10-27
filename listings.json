@@ -2,8 +2,8 @@
   "zip": "77006",
   "city": "Houston, TX",
   "source": "https://bringatrailer.com/no-reserve/?sortby=location",
-  "updatedAt": "2026-10-26T16:03:13-05:00",
-  "updatedLabel": "Oct 26, 2026, 4:03 PM CT",
+  "updatedAt": "2026-10-27T07:57:18-05:00",
+  "updatedLabel": "Oct 27, 2026, 7:57 AM CT",
   "listings": [
     {
       "id": "1981-honda-c70-passport-49",
@@ -26,9 +26,9 @@
       "title": "1991 Mazda RX-7 Convertible 5-Speed",
       "url": "https://bringatrailer.com/listing/1991-mazda-rx-7-convertible-39/",
       "image": "photos/1991-mazda-rx-7-convertible-39.jpg",
-      "bid": 1500,
-      "bidLabel": "$1,500",
-      "bids": 3,
+      "bid": 1900,
+      "bidLabel": "$1,900",
+      "bids": 6,
       "timeLeft": "2 days",
       "ends": "Thursday, Oct 29, 2026 at 12:54 PM CT",
       "distanceMiles": 49,
@@ -58,9 +58,9 @@
       "title": "1985 Jeep CJ-7 Laredo 5-Speed",
       "url": "https://bringatrailer.com/listing/1985-jeep-cj-7-130/",
       "image": "photos/1985-jeep-cj-7-130.jpg",
-      "bid": 20000,
-      "bidLabel": "$20,000",
-      "bids": 9,
+      "bid": 28000,
+      "bidLabel": "$28,000",
+      "bids": 10,
       "timeLeft": "6 days",
       "ends": "Monday, Nov 2, 2026 at 12:58 PM CT",
       "distanceMiles": 146,
@@ -68,6 +68,22 @@
       "location": "Round Rock, TX 78665",
       "noReserve": true,
       "description": "This 1985 Jeep CJ-7 Laredo underwent a frame-off refurbishment approximately 7k miles ago and prior to the current owner's 2022 purchase. Additional work since then has included replacing the carburetor, radiator, water pump, AC compressor,… Round Rock, TX 78665; no-reserve."
+    },
+    {
+      "id": "1972-opel-gt-25",
+      "title": "1972 Opel GT 4-Speed",
+      "url": "https://bringatrailer.com/listing/1972-opel-gt-25/",
+      "image": "photos/1972-opel-gt-25.jpg",
+      "bid": 8275,
+      "bidLabel": "$8,275",
+      "bids": 8,
+      "timeLeft": "6 days",
+      "ends": "Monday, Nov 2, 2026 at 2:36 PM CT",
+      "distanceMiles": 149,
+      "distanceLabel": "149 miles",
+      "location": "Austin, TX 78759",
+      "noReserve": true,
+      "description": "This 1972 Opel GT was acquired new by the father of the seller, who tells us it remained in storage for 44 years until ownership passed to them in 2026. Finished in Fire Glow over black vinyl, it is powered by a 1.9-liter inline-four linked… Austin, TX 78759; no-reserve."
     }
   ]
 }
